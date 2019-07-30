@@ -10,4 +10,5 @@ title: AnoymousHK
 tagline: 'hk_protest'
 description: Reclaim Hong Kong, Revoution of Our Times
 timezone: Europe/Berlin
-url: https://anoymoushk.github.io/revo_hk
+baseurl: "/revo_hk"
+url: https://anoymoushk.github.io
