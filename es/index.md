@@ -1,5 +1,5 @@
 ---
 layout: index
-title: Timesline
+title: Timeline
 lang: es
 ---

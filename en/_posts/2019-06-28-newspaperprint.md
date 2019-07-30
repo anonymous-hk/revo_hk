@@ -1,6 +1,7 @@
 ---
 title: ‘Stand with Hong Kong’ G20 appeal over extradition law crisis appears in over 10 int’l newspapers
 lang: en
+layout: post
 date: 2019-06-28 00:00:00 -0700
 img: false
 description: An appeal to G20 leaders to act on Hong Kong’s extradition law crisis has appeared in over 10 international newspapers on Friday, as the leaders’ summit gets underway.

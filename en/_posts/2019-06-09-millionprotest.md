@@ -1,6 +1,7 @@
 ---
 title: Up to 1 Million Protesters Take to Hong Kong Streets Against Chinese Extradition Bill
 lang: en
+layout: post
 date: 2019-06-09 00:00:00 -0700
 img: false
 description: Hundreds of thousands of protesters blanketed the streets Sunday, calling out a proposed bill that would allow for the extradition of Hong Kong residents to face charges in mainland China.
