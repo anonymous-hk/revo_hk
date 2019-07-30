@@ -1,0 +1,13 @@
+---
+# Dependencies
+highlighter: pygments
+
+# Permalinks
+permalink: pretty
+
+# Setup
+title: AnoymousHK
+tagline: 'hk_protest'
+description: Reclaim Hong Kong, Revoution of Our Times
+timezone: Europe/Berlin
+baseurl: /

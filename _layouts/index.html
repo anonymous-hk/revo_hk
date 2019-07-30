@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+<h1>{{ page.title }}</h1>
+<div class="container row">
+    {% assign posts = site.posts | sort: 'date' | where: "lang", page.lang%}
+    
+    {% for post in posts %}
+    <div class="item">
+        <i class="vertical-line"></i>
+        <h2 class="item-date">{{ post.date | date: '%Y-%m-%d' }}{% if post.enddate %} - {{ post.enddate | date: '%Y-%m-%d' }}{% endif %}</h2>
+        <div class="card-panel">
+            <h3 class="card-title">
+                {{ post.title }}
+            </h3>
+            {% capture pimg %}{{ post.img | default: false }}{% endcapture %}
+            {% if post.img != false %}
+              <img src="{{post.img}}">
+            {% endif %}
+            {{ post.description }}
+
+
+        </div>
+    </div>
+    {% endfor %}
+    <div class="last-item">
+        <i class="vertical-line"></i>
+        
+    </div>
+    </div>
