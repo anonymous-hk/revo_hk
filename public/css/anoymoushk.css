@@ -54,3 +54,20 @@ position:relative
   width: 100%;
   height: 100%;
 }
+
+* {
+    box-sizing: border-box;
+}
+
+.wrapper {
+   font-size: 0;
+}
+
+img {
+    display: inline-block;
+    max-width: 100%;
+}
+
+.pcontainer {
+  max-width: 25%;
+}
