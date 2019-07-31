@@ -7,7 +7,7 @@ All propaganda credits go to a large group of unnamed Hongkongers. If you would 
 
 The table below shows a list of trustable press and charities:
 
-|Press/Charities	|Link|
+|Press/Charities	|Links|
 |---				|--- |
 |612 Humanitarian Relief Fund|<a href="https://www.facebook.com/612Fund/">https://www.facebook.com/612Fund/</a>|
 |Hong Kong Free Press|<a href="https://www.hongkongfp.com/support-hkfp/">https://www.hongkongfp.com/support-hkfp/</a>|
