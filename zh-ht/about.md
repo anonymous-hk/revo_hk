@@ -1,7 +1,7 @@
 ---
 title: About us
 layout: page
-lang: zh_ht
+lang: zh-ht
 lang-ref: about
 
 ---

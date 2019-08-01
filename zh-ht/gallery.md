@@ -1,7 +1,7 @@
 ---
 title: Propaganda
 layout: page
-lang: zh_ht
+lang: zh-ht
 ---
 
 所有文宣工具由一群香港人所製作。如您想支持我們，請踴躍捐款至其他媒體或援助基金。
