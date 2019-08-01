@@ -4,4 +4,4 @@ layout: page
 lang: en
 ---
 
-{% include google-map.html latitude=-45.8787605 longitude=170.5027976 zoom=10 %}
+The page is currently under construction.Please try again later.
