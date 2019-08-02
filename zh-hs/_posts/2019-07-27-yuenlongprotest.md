@@ -1,6 +1,6 @@
 ---
 title: 元朗衝突
-lang: zh-ht
+lang: zh-hs
 layout: post
 date: 2019-07-27 00:00:00 -0700
 img: 20190727_newsimg.jpg

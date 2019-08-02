@@ -1,6 +1,6 @@
 ---
 title: 續會衝突
-lang: zh-ht
+lang: zh-hs
 layout: post
 date: 2019-05-14 00:00:00 -0700
 img: 20190514_newsimg.jpg

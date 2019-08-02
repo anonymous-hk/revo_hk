@@ -1,6 +1,6 @@
 ---
 title: 九龍反送中大遊行
-lang: zh-ht
+lang: zh-hs
 layout: post
 date: 2019-07-07 00:00:00 -0700
 img: 20190707_newsimg.jpg

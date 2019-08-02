@@ -1,6 +1,6 @@
 ---
 title: 萬人上街，示威者佔領立法會
-lang: zh-ht
+lang: zh-hs
 layout: post
 date: 2019-07-01 00:00:00 -0700
 img: 20190701_newsimg.jpg
