@@ -1,5 +1,5 @@
 ---
-title: ‘Stand with Hong Kong’ G20 appeal over extradition law crisis appears in over 10 int’l newspapers
+title: 反送中報章席捲G20
 lang: zh-hs
 layout: post
 date: 2019-06-28 00:00:00 -0700
