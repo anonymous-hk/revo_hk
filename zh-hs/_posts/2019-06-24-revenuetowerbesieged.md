@@ -1,10 +1,10 @@
 ---
-title: 不合作運動
+title: 不合作运动
 lang: zh-hs
 layout: post
 date: 2019-06-24 00:00:00 -0700
 img: false
-description: 繼6月21日有示威者發起和平“不合作運動”後，6月24日再有示威者響應網上“接下班”行動，以“流水佔領”方式包圍政府部門。幾百名示威者先到灣仔稅務大樓抗議，高呼“反送中”、“撤回條例”、“釋放義士”、“譴責警方使用過分武力”、“成立獨立調查委員會”等口號。
+description: 继6月21日有示威者发起和平“不合作运动”后，6月24日再有示威者响应网上“接下班”行动，以“流水占领”方式包围政府部门。几百名示威者先到湾仔税务大楼抗议，高呼“反送中”、“撤回条例”、“释放义士”、“谴责警方使用过分武力”、“成立独立调查委员会”等口号。
 ---
 
 [Source: HKFP](https://www.hongkongfp.com/2019/06/24/just-100-hong-kong-anti-extradition-law-protesters-occupy-revenue-tower-foyer/)

@@ -1,11 +1,11 @@
 ---
-title: 香港媽媽反送中集氣大會
+title: 香港妈妈反送中集气大会
 lang: zh-hs
 layout: post
 date: 2019-06-14 00:00:00 -0700
 img: 20190614_newsimg.jpg
 imgdes: (mingpo)
-description: 超過3,000人在中環遮打花園發起「香港媽媽」集會，聲援暴力鎮壓中受傷的孩子，讓他們知道自己並不孤單，更反對特首林鄭月娥的說法：「我們是一群香港的母親，但我們絕不會以催淚彈、具殺傷力的橡膠子彈及布袋彈攻擊我們的孩子」，並認為這樣的比喻並不恰當：「人民不是特首你的孩子。」
+description: 超过3,000人在中环遮打花园发起「香港妈妈」集会，声援暴力镇压中受伤的孩子，让他们知道自己并不孤单，更反对特首林郑月娥的说法：「我们是一群香港的母亲，但我们绝不会以催泪弹、具杀伤力的橡胶子弹及布袋弹攻击我们的孩子」，并认为这样的比喻并不恰当：「人民不是特首你的孩子。」
 
 [Source: mirrormedia](https://www.mirrormedia.mg/story/20190614pol010/)
 [Source: twreporter](https://www.twreporter.org/a/photo-hong-kong-china-extradition-law-614-mothers)

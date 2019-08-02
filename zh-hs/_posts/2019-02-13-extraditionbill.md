@@ -4,7 +4,7 @@ layout: post
 lang: zh-hs
 date: 2019-02-13 00:00:00 -0700
 img: false
-description: 因應陳同佳案，香港保安局提出修訂《逃犯條例》和《刑事事宜相互法律協助條例》以堵住無引渡安排的漏洞
+description: 因应陈同佳案，香港保安局提出修订《逃犯条例》和《刑事事宜相互法律协助条例》以堵住无引渡安排的漏洞
 ---
 
 [Source: HK01](https://www.hk01.com/%E7%AA%81%E7%99%BC/294586/%E4%BF%AE%E4%BE%8B%E4%BA%A4%E9%80%83%E7%8A%AF-%E7%A7%BB%E4%BA%A4%E7%AF%84%E5%9C%8D%E6%B6%8946%E9%87%8D%E7%BD%AA-%E7%B6%81%E6%9E%B6-%E9%80%83%E7%A8%85-%E9%87%8D%E5%A9%9A%E5%8F%AF%E7%A7%BB%E4%BA%A4%E5%85%A7%E5%9C%B0)

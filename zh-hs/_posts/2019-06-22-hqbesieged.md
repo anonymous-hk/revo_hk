@@ -1,11 +1,11 @@
 ---
-title: 包圍警總
+title: 包围警总
 lang: zh-hs
 layout: post
 date: 2019-06-22 00:00:00 -0700
 img: 20190622_newsimg.jpg
 imgdes: (singtao)
-description: 數千名抗議者因港府拒絕追究警察濫用暴力而包圍警察總部的行動，星期六早上結束。警方稱將對抗議者的違法行爲嚴肅跟進。
+description: 数千名抗议者因港府拒绝追究警察滥用暴力而包围警察总部的行动，星期六早上结束。警方称将对抗议者的违法行为严肃跟进。
 ---
 
 [Source: HKFP](https://www.hongkongfp.com/2019/06/22/hkfp-lens-hong-kong-police-hq-besieged-protesters-following-long-day-dissent-part-i/)

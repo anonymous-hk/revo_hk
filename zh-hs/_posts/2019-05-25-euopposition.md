@@ -1,10 +1,10 @@
 ---
-title: 歐盟辦事處就逃犯條例發出抗議
+title: 欧盟办事处就逃犯条例发出抗议
 lang: zh-hs
 layout: post
 date: 2019-05-25 00:00:00 -0700
 img: false
-description: 歐盟駐港澳辦事處，就香港特區政府提出修訂《逃犯條例》，向特區政府發出正式外交照會，抗議修例。
+description: 欧盟驻港澳办事处，就香港特区政府提出修订《逃犯条例》，向特区政府发出正式外交照会，抗议修例。
 ---
 
 [Source: RTHK](https://news.rthk.hk/rthk/ch/component/k2/1459252-20190524.htm?spTabChangeable=0)

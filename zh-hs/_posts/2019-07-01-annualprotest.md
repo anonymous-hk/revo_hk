@@ -1,11 +1,11 @@
 ---
-title: 萬人上街，示威者佔領立法會
+title: 万人上街，示威者占领立法会
 lang: zh-hs
 layout: post
 date: 2019-07-01 00:00:00 -0700
 img: 20190701_newsimg.jpg
 imgdes: (hket)
-description: 香港《逃犯條例》爭議持續數周後，七月一日再次爆發大規模抗議活動。少數示威者當地時間下午衝擊立法會，破壞玻璃幕牆後闖入大樓，示威者晚上近9點完全佔據立法會，破壞一些設施，並掛起殖民時期的旗幟。
+description: 香港《逃犯条例》争议持续数周后，七月一日再次爆发大规模抗议活动。少数示威者当地时间下午冲击立法会，破坏玻璃幕墙后闯入大楼，示威者晚上近9点完全占据立法会，破坏一些设施，并挂起殖民时期的旗帜。
 ---
 
 [Source: HKFP](https://www.hongkongfp.com/2019/07/01/breaking-organisers-say-550000-attend-annual-july-1-democracy-march-amid-clashes-rear-legislature/)

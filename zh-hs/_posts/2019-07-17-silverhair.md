@@ -1,11 +1,11 @@
 ---
-title: 銀髮族聲援反送中青年
+title: 银发族声援反送中青年
 lang: zh-hs
 layout: post
 date: 2019-07-17 00:00:00 -0700
 img: 20190717_newsimg.jpg
 imgdes: (ltn)
-description: 超過9000年長者發起及參加、標榜支持年輕人上街表達訴求的「銀髮族靜默遊行」，今天下午在港島中環登場，以相對安靜的方式遊行到香港政府總部。
+description: 超过9000年长者发起及参加、标榜支持年轻人上街表达诉求的「银发族静默游行」，今天下午在港岛中环登场，以相对安静的方式游行到香港政府总部。
 ---
 
 [Source: udn](https://money.udn.com/money/story/5603/3935210)

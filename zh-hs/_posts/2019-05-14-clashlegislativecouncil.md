@@ -1,11 +1,11 @@
 ---
-title: 續會衝突
+title: 续会冲突
 lang: zh-hs
 layout: post
 date: 2019-05-14 00:00:00 -0700
 img: 20190514_newsimg.jpg
 imgdes: (google)
-description: 立法會《逃犯條例》修訂法案委員會今早續會期間再度出現混亂，多名在場攝影記者稱，其間遭立法會保安人員阻撓採訪及拉扯。，反對派用暴力手段阻止法案委員會開會
+description: 立法会《逃犯条例》修订法案委员会今早续会期间再度出现混乱，多名在场摄影记者称，其间遭立法会保安人员阻挠采访及拉扯。，反对派用暴力手段阻止法案委员会开会
 ---
 
 [Source: Reuters](https://www.reuters.com/article/us-hongkong-politics-extradition/hong-kong-lawmakers-clash-over-what-democrats-call-evil-extradition-bill-idUSKCN1SK12D)

@@ -1,10 +1,10 @@
 ---
-title: 「反送中」廣告
+title: 「反送中」广告
 lang: zh-hs
 layout: post
 date: 2019-06-25 00:00:00 -0700
 img: false
-description: 香港反對修訂「逃犯條例」運動，正尋求國際社會的支援。有人在網上發起籌款，用作在海外刊登廣告，籌款於週二（25日）截止，共籌得逾500萬元。
+description: 香港反对修订「逃犯条例」运动，正寻求国际社会的支援。有人在网上发起筹款，用作在海外刊登广告，筹款于周二（25日）截止，共筹得逾500万元。
 ---
 
 [Source: HKFP](https://www.hongkongfp.com/2019/06/25/hongkongers-raise-hk5m-front-page-newspaper-ads-urging-g20-action-extradition-crisis/)

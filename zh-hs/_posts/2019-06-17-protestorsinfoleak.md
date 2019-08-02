@@ -1,10 +1,10 @@
 ---
-title: 受傷市民到醫院求診被捕
+title: 受伤市民到医院求诊被捕
 lang: zh-hs
 layout: post
 date: 2019-06-17 00:00:00 -0700
 img: false
-description: 早前有在6月12日（星期三）反對《逃犯條例》修例集會中的傷者，指到醫院求醫期間，向醫護表示曾赴佔領區後，被警方以涉暴動罪拘捕。立法會醫學界議員陳沛然針對醫管局洩露病人私隱問題召開記者會，直指已有證據證明醫管局管理層人員洩露病人資料，同時促請當局盡快召開記者會交代事件。
+description: 早前有在6月12日（星期三）反对《逃犯条例》修例集会中的伤者，指到医院求医期间，向医护表示曾赴占领区后，被警方以涉暴动罪拘捕。立法会医学界议员陈沛然针对医管局泄露病人私隐问题召开记者会，直指已有证据证明医管局管理层人员泄露病人资料，同时促请当局尽快召开记者会交代事件。
 ---
 
 [Source: HKFP](https://www.hongkongfp.com/2019/06/17/police-can-access-full-details-injured-protesters-hospital-says-medical-sector-lawmaker-following-patient-arrests/)

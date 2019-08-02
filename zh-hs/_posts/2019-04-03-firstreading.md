@@ -1,10 +1,10 @@
 ---
-title: 首讀通過
+title: 首读通过
 lang: zh-hs
 layout: post
 date: 2019-04-03 00:00:00 -0700
 img: false
-description: 在香港部分商界和民主派大力反對下，香港政府仍然一意孤行，把逃犯條例修訂草案提交香港立法會審議。
+description: 在香港部分商界和民主派大力反对下，香港政府仍然一意孤行，把逃犯条例修订草案提交香港立法会审议。
 ---
 
 The proposal was presented to the legislative council on Wednesday and the law is expected to be passed later this year

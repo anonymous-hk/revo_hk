@@ -1,10 +1,10 @@
 ---
-title: 大律師公會遞反對意見書
+title: 大律师公会递反对意见书
 layout: post
 lang: zh-hs
 date: 2019-03-04 00:00:00 -0700
 img: false
-description: 大律師公會向政府遞交意見書，指若政府今次修例可能會破壞香港作為一個受法治保障的自由及安全城市的聲譽
+description: 大律师公会向政府递交意见书，指若政府今次修例可能会破坏香港作为一个受法治保障的自由及安全城市的声誉
 ---
 
 [Source: HKFP](https://www.hongkongfp.com/2019/03/05/jumping-gun-barristers-scholars-democrats-oppose-update-hong-kong-extradition-law-consultation-ends/)

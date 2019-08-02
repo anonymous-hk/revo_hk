@@ -1,10 +1,10 @@
 ---
-title: 強烈讉責七一衝擊
+title: 强烈讉责七一冲击
 lang: zh-hs
 layout: post
 date: 2019-07-02 00:00:00 -0700
 img: false
-description: 對於示威者七一衝擊立法會大樓，特首林鄭月娥表示對此感到十分憤慨和痛心，予以強烈讉責。港澳辦發聲明指，事件是對一國兩制底線的公然挑戰，堅決支持港府和警方依法追究。
+description: 对于示威者七一冲击立法会大楼，特首林郑月娥表示对此感到十分愤慨和痛心，予以强烈讉责。港澳办发声明指，事件是对一国两制底线的公然挑战，坚决支持港府和警方依法追究。
 ---
 
 [Source: HKFP](https://www.hongkongfp.com/2019/07/02/breaking-tear-gas-deployed-police-clear-admiralty-protesters/)

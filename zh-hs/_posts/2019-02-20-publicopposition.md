@@ -1,10 +1,10 @@
 ---
-title: 民間出現反對聲音
+title: 民间出现反对声音
 layout: post
 lang: zh-hs
 date: 2019-02-20 00:00:00 -0700
 img: false
-description: 民間團體反對當局倉促修訂《逃犯條例》
+description: 民间团体反对当局仓促修订《逃犯条例》
 ---
 
 [Source: VoiceCantonese](https://www.voacantonese.com/a/hk-civil-groups-and-lawmakers-statement-on-extradition-arrangement/4795805.html)

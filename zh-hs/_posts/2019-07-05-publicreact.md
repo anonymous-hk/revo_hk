@@ -1,10 +1,10 @@
 ---
-title: 第4宗自殺案，拒絕閉門談判
+title: 第4宗自杀案，拒绝闭门谈判
 lang: zh-hs
 layout: post
 date: 2019-07-05 00:00:00 -0700
 img: false
-description: 香港特首與大學生作閉門溝通的提議，很快遭到香港科技大學學生會的拒絕。與此同時，香港出現同"反送中"有關的第4宗自殺案。
+description: 香港特首与大学生作闭门沟通的提议，很快遭到香港科技大学学生会的拒绝。与此同时，香港出现同"反送中"有关的第4宗自杀案。
 ---
 
 [Source: HKFP](https://www.hongkongfp.com/2019/07/05/business-chambers-lawyers-academics-foreign-states-react-storming-hong-kongs-legislature/)
