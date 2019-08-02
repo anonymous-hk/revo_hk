@@ -71,3 +71,35 @@ img {
 .pcontainer {
   max-width: 25%;
 }
+
+/* Style the video: 100% width and height to cover the entire window */
+#playVideo {
+  min-width: 100%;
+  min-height: 100%;
+}
+.fullcontent {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  margin-left: 18rem;
+  margin-right: 2rem;
+  color: #f1f1f1;
+  background: rgba(0, 0, 0, 0.5);
+}
+
+
+/* Style the button used to pause/play the video */
+#playBtn {
+  width: 200px;
+  font-size: 18px;
+  padding: 10px;
+  border: none;
+  background: #000;
+  color: #fff;
+  cursor: pointer;
+}
+
+#playBtn:hover {
+  background: #ddd;
+  color: black;
+}

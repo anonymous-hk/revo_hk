@@ -4,10 +4,15 @@
   {% include head.html %}
 
   <body>
-    <div class="container">
-        <div class="lang-select">
-            {{ content }}
-        </div>
-    </div>
+  	{% include homebar.html %}
+	<div class="fullcontent">
+	  <video autoplay muted loop id="playVideo">
+	  <source src="../public/video/20190612_police_shooting_at_press.mp4" type="video/mp4">
+	</video>
+	</div>
+
+	<!-- Optional: some overlay text to describe the video -->
+	<div class="fullcontent">
+	</div>
   </body>
 </html>
