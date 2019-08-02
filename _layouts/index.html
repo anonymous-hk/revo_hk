@@ -16,7 +16,8 @@ layout: default
             </h3>
             {% capture pimg %}{{ post.img | default: false }}{% endcapture %}
             {% if post.img != false %}
-              <img src="{{post.img}}">
+              <img src="{{site.baseurl}}/public/img/"{{post.img}}">
+              {{post.imgdes}}
             {% endif %}
             {{ post.description }}
 
