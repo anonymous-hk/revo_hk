@@ -60,7 +60,10 @@ html {
 
 body {
   color: #515151;
-  background-color: #fff;
+  background-image: url("../img/background.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
