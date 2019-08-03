@@ -9,4 +9,4 @@ description: Over 100 anti-extradition law protesters occupied the foyer of the 
 
 Over 100 anti-extradition law protesters occupied the foyer of the Revenue Tower in Wan Chai on Monday, in a fresh act of civil disobedience to hinder the government’s operations.
 
-[Source: HKFP](https://www.hongkongfp.com/2019/06/24/just-100-hong-kong-anti-extradition-law-protesters-occupy-revenue-tower-foyer/)
+<br>[Source: HKFP](https://www.hongkongfp.com/2019/06/24/just-100-hong-kong-anti-extradition-law-protesters-occupy-revenue-tower-foyer/)

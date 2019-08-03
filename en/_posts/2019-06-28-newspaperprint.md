@@ -9,4 +9,4 @@ description: An appeal to G20 leaders to act on Hong Kong’s extradition law cr
 
 An appeal to G20 leaders to act on Hong Kong’s extradition law crisis has appeared in over 10 international newspapers on Friday, as the leaders’ summit gets underway.
 
-[Source: HKFP](https://www.hongkongfp.com/2019/06/28/stand-hong-kong-g20-appeal-extradition-law-crisis-appears-10-intl-newspapers/)
+<br>[Source: HKFP](https://www.hongkongfp.com/2019/06/28/stand-hong-kong-g20-appeal-extradition-law-crisis-appears-10-intl-newspapers/)

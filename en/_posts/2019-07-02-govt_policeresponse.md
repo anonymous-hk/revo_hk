@@ -9,4 +9,4 @@ description: Hong Kong police deploy tear gas to disperse crowds occupying major
 
 Hong Kong police deploy tear gas to disperse crowds occupying major roads in Admiralty and reclaim legislature from anti-gov’t protesters. Hong Kong’s Carrie Lam condemns protesters’ occupation of legislature as ‘extreme use of violence’
 
-[Source: HKFP](https://www.hongkongfp.com/2019/07/02/breaking-tear-gas-deployed-police-clear-admiralty-protesters/)
+<br>[Source: HKFP](https://www.hongkongfp.com/2019/07/02/breaking-tear-gas-deployed-police-clear-admiralty-protesters/)

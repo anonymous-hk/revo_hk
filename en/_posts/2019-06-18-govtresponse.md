@@ -10,4 +10,4 @@ description: Hong Kong leader Carrie Lam ‘sincerely apologises’ for extradit
 Hong Kong leader Carrie Lam ‘sincerely apologises’ for extradition row, but refuses to retract bill or resign
 
 
-[Source: HKFP](https://www.hongkongfp.com/2019/06/18/live-hong-kong-leader-carrie-lam-sincerely-apologises-extradition-row/)
+<br>[Source: HKFP](https://www.hongkongfp.com/2019/06/18/live-hong-kong-leader-carrie-lam-sincerely-apologises-extradition-row/)

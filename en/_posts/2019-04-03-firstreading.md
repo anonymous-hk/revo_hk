@@ -9,4 +9,4 @@ description: The proposal was presented to the legislative council on Wednesday 
 
 The proposal was presented to the legislative council on Wednesday and the law is expected to be passed later this year
 
-[Source: Times](https://time.com/5563306/hong-kong-extradition-law-china/)
+<br>[Source: Times](https://time.com/5563306/hong-kong-extradition-law-china/)

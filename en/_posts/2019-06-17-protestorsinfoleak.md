@@ -9,4 +9,4 @@ description: Hong Kong’s medical sector lawmaker has said that he has proof th
 
 Hong Kong’s medical sector lawmaker has said that he has proof that police can access the Hospital Authority’s system to check details of injured protesters who were admitted into the public hospital system, without using any special logins.
 
-[Source: HKFP](https://www.hongkongfp.com/2019/06/17/police-can-access-full-details-injured-protesters-hospital-says-medical-sector-lawmaker-following-patient-arrests/)
+<br>[Source: HKFP](https://www.hongkongfp.com/2019/06/17/police-can-access-full-details-injured-protesters-hospital-says-medical-sector-lawmaker-following-patient-arrests/)
