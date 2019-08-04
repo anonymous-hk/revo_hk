@@ -10,7 +10,7 @@ title: AnoymousHK
 tagline: 'hk_protest'
 description: Reclaim Hong Kong, Revoution of Our Times
 timezone: Europe/Berlin
-baseurl:'/revo_hk'
+baseurl: '/revo_hk'
 plugins:
   - jekyll-maps
 

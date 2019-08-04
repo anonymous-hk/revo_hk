@@ -1,4 +1,9 @@
 ---
-layout: default
+layout: home
 title: Home
 ---
+{% capture site_lang %}{{ site.lang | default: "zh-ht" }}{% endcapture %}
+
+{% comment %}
+<meta http-equiv="refresh" content="0; URL={{ site.url }}{{ site.baseurl }}/{{site_lang}}" />
+{% endcomment %}
