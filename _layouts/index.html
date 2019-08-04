@@ -4,7 +4,7 @@ layout: default
 
 <h1>{{ page.title }}</h1>
 <div class="container row">
-    {% assign posts = site.posts | sort: 'date' | where: "lang", page.lang%}
+    {% assign posts = site.posts | sort: 'date' | where: "lang", page.lang | reverse %}
     
     {% for post in posts %}
     <div class="item">
@@ -16,7 +16,7 @@ layout: default
             </h3>
             {% capture pimg %}{{ post.img | default: false }}{% endcapture %}
             {% if post.img != false %}
-              <a href="{{site.url}}{{site.baseurl}}/public/img/{{post.img}}"> <img src="{{site.url}}{{site.baseurl}}/public/img/{{post.img}}"> </a>
+              <a href="{{site.url}}{{site.baseurl}}/public/img/{{post.img}}"> <img src="{{site.url}}{{site.baseurl}}/public/img/{{post.img}}" style="width:500px;"> </a>
               <br>
               Photo credit: {{post.imgdes}}
               <br>
