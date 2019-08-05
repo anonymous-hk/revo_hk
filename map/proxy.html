@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	</head>
+	<body>
+		<p id="demo">Loading</p>
+		<script type="text/javascript">
+			var url = 'https://newsapi.org/v2/top-headlines?' +
+	          'q=Hong Kong&' +
+	          'sortBy="Date published&' +
+	          'apiKey=fa2f05261a064140b50f5adfd0a12566';
+
+	        var req = new Request(url);
+
+			fetch(req)
+		    .then(function(response) {
+		        return response.json();
+		    })
+		    .then(function(json) {
+		        console.log(json);
+		        console.log(json.status);
+		        var text = '';
+		        if (json.status == "ok"){
+					for (newsobj of json.articles) {
+						console.log(newsobj);
+					  	text += '[' + newsobj.publishedAt + '](' + newsobj.source.name + ')<a href="' + newsobj.url + '">' + newsobj.title + '</a>' + '<br>';
+					}
+
+		        	document.getElementById("demo").innerHTML = text;
+		        }
+		        else {
+		        	document.getElementById("demo").innerHTML = "The new scapper encountered technical problem. Please try again later";
+		        }
+		    })
+
+		</script>
+	</body>
+
+
+
+	
+
+</html>
