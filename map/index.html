@@ -20,4 +20,34 @@ lang: en
 <br>
 <br>
 <h3> Lastest news data </h3>
-<div style="height:300px;width:1200px;overflow:auto;border:2px solid grey;padding:2%">Loading...</div>
+<div style="height:300px;width:1200px;overflow:auto;border:2px solid grey;padding:2%">
+	<p id="newsfeed">Loading</p>
+		<script type="text/javascript">
+
+			var url = 'https://newsapi.org/v2/top-headlines?' +
+	          'q=Hong Kong&' +
+	          'sortBy="Date published"&' +
+	          'apiKey=fa2f05261a064140b50f5adfd0a12566';
+
+	        var req = new Request(url);
+
+			fetch(req)
+		    .then(function(response) {
+		        return response.json();
+		    })
+		    .then(function(json) {
+		        var text = '';
+		        if (json.status == "ok"){
+					for (newsobj of json.articles) {
+					  	text += '[' + newsobj.publishedAt + '](' + newsobj.source.name + ')<a href="' + newsobj.url + '">' + newsobj.title + '</a>' + '<br>';
+					}
+
+		        	document.getElementById("newsfeed").innerHTML = text;
+		        }
+		        else {
+		        	document.getElementById("newsfeed").innerHTML = "The new scapper encountered technical problem. Please try again later";
+		        }
+		    })
+
+		</script>
+</div>
