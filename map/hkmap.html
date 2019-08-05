@@ -101,7 +101,8 @@ function style(feature) {
 
             var popupContent = "</br>Name in Chinese: "+ feature.properties.TCNAME +
                 "</br>Name in English: "+ feature.properties.ENAME +
-                "</br>Activity Level: "+ feature.properties.activitylevel.toLocaleString() + '</p>';
+                "</br>Activity Level: "+ feature.properties.activitylevel.toLocaleString() +
+                "</br>Live Update: "+ feature.properties.live + '</p>';
 
             layer.bindPopup(popupContent);
 
