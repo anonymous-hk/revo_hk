@@ -1,6 +1,6 @@
 ---
 title: 「8.5全港三大罢、遍地开花七区集会」，全港爆发混乱
-lang: zh-ht
+lang: zh-hs
 layout: post
 date: 2019-08-05 00:00:00 -0700
 img: 20190805_newsimg.jpg
