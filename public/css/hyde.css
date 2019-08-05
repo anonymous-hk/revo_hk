@@ -57,8 +57,10 @@ html {
   text-align: center;
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
-  background-color: #f1f1f1;
-  background-image: url("{{site.url}}{{site.baseurl}}/public/img/sidebarimgcrop.jpg");
+  background-color: #9B9898;
+  background-image: url("../img/sidebarimgcrop.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 @media (min-width: 48em) {
   .sidebar {
