@@ -1,6 +1,6 @@
 ---
 title: 葵涌声援被捕人士、警持长枪指向示威者
-lang: zh-ht
+lang: zh-hs
 layout: post
 date: 2019-07-30 00:00:00 -0700
 img: 20190730_newsimg.jpg

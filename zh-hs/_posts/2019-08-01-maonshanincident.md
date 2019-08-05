@@ -1,6 +1,6 @@
 ---
 title: 警无搜查令下搜查工厦，示威者围马鞍山警署速龙清场
-lang: zh-ht
+lang: zh-hs
 layout: post
 date: 2019-08-01 00:00:00 -0700
 img: 20190801_newsimg.jpg

@@ -1,6 +1,6 @@
 ---
 title: 公务员「公仆仝人、与民同行」集会
-lang: zh-ht
+lang: zh-hs
 layout: post
 date: 2019-08-02 00:00:00 -0700
 img: 20190802_newsimg.jpg
