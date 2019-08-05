@@ -1,0 +1,18 @@
+"WONG TAI SIN": wts
+"KWAI TSING": kt
+"SHAM SHUI PO" ssp
+"YAU TSIM MONG", ytm"activitylevel":
+"KOWLOON CITY", kc
+"KWUN TONG", kwt
+"SAI KUNG", sk
+"TAI PO", tp
+"SHA TIN", st
+"NORTH", no
+"CENTRAL & WESTERN", cw
+"WAN CHAI", wc
+"EASTERN", ea
+"TUEN MUN", tm
+"YUEN LONG", yl
+"TSUEN WAN", tw
+"ISLANDS", is
+"SOUTHERN", so
