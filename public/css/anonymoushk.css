@@ -132,6 +132,7 @@ object-fit: cover;
   .fullcontent {
   position: absolute;
   width: 100%;
+  height: auto;
   padding-top: 57.40%;
   margin-left: 0rem;
   color: #f1f1f1;
@@ -142,6 +143,7 @@ object-fit: cover;
   .textcontent {
   position: absolute;
   width: 100%;
+  height: auto;
   padding-top: 57.40%;
   margin-left: 0rem;
   color: #f1f1f1;
