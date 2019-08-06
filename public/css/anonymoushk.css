@@ -89,7 +89,7 @@ img {
 
 
 .fullcontent {
-  position: fixed;
+  position: absolute;
   width: 100%;
   height: 100%;
   margin-left: 18rem;
@@ -101,7 +101,7 @@ img {
 
 
 .textcontent {
-  position: fixed;
+  position: absolute;
   width: 100%;
   height: 100%;
   margin-left: 18rem;
@@ -119,7 +119,7 @@ img {
 }
 
 .photocontent {
-position: fixed;
+position: absolute;
 width: 100%;
 height: 100%;
 margin-left: 18rem;
@@ -267,4 +267,20 @@ object-fit: cover;
 #m1num, #m2num, #m3num, #m4num {
     color: #FACC2E;
     font-size: 100px;
+}
+
+@media only screen and (max-device-width: 765px) {
+#p1num, #p2num, #p3num, #p4num, #p5num {
+  color: #F05A39;
+    font-size: 50px;
+}
+#pnuma {
+  color: #F05A39;
+    font-size: 30px;
+}
+
+#m1num, #m2num, #m3num, #m4num {
+    color: #FACC2E;
+    font-size: 50px;
+}
 }
