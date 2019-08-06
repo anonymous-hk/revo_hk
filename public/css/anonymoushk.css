@@ -99,6 +99,14 @@ img {
   object-fit: cover;
 }
 
+.fullcontent h1{
+    margin-bottom: .5rem;
+    font-weight: bold;
+    line-height: 1.25;
+    color: #d9d2d2;
+    text-rendering: optimizeLegibility;
+}
+
 .photocontent {
 position: fixed;
 width: 100%;
@@ -195,7 +203,7 @@ object-fit: cover;
 }
 
 .crossfade > figure:nth-child(1) { 
-    background-image: url(../img/background_201907211.jpeg);
+    background-image: url(../img/background_201908054.jpeg);
 }
 .crossfade > figure:nth-child(2) { 
     background-image: url(../img/background_201907151.jpeg);
@@ -223,4 +231,18 @@ object-fit: cover;
 
 .no-cssanimations .crossfade li span{
   opacity: 1;
+}
+
+#p1num, #p2num, #p3num, #p4num, #p5num {
+  color: #F05A39;
+    font-size: 100px;
+}
+#pnuma {
+  color: #F05A39;
+    font-size: 60px;
+}
+
+#m1num, #m2num, #m3num, #m4num {
+    color: #FACC2E;
+    font-size: 100px;
 }
