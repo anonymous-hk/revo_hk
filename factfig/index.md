@@ -70,5 +70,4 @@ animateValue("m3num", 0, 76, 1000);
 
 animateValue("p4num", 0, 0, 1000);
 animateValue("m4num", 0, 5, 1000);
-animateValue("p5num", 0, 420, 1000);
 </script>
