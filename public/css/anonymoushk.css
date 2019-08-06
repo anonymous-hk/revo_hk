@@ -90,7 +90,7 @@ img {
 
 
 .fullcontent {
-  position: absolute;
+  position: fixed;
   width: 100%;
   margin-left: 18rem;
   color: #f1f1f1;
@@ -107,7 +107,7 @@ img {
 }
 
 .photocontent {
-position: absolute;
+position: fixed;
 width: 100%;
 margin-left: 18rem;
 color: #f1f1f1;
@@ -117,7 +117,7 @@ object-fit: cover;
 
 @media only screen and (max-device-width: 765px) {
   .fullcontent {
-  position: absolute;
+  position: fixed;
   width: 100%;
   margin-left: 0rem;
   color: #f1f1f1;
@@ -125,7 +125,7 @@ object-fit: cover;
   object-fit: cover;
 }
   .photocontent {
-  position: absolute;
+  position: fixed;
   width: 100%;
   margin-left: 0rem;
   color: #f1f1f1;
