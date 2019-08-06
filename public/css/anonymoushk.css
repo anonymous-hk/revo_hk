@@ -92,6 +92,7 @@ img {
 .fullcontent {
   position: fixed;
   width: 100%;
+  height: 100%;
   padding-left: 18rem;
   color: #f1f1f1;
   background: rgba(0, 0, 0, 0.5);
@@ -109,24 +110,27 @@ img {
 .photocontent {
 position: fixed;
 width: 100%;
+height: 100%;
 padding-left: 18rem;
 color: #f1f1f1;
 background: rgba(0, 0, 0, 0.5);
 object-fit: cover;
 }
 
-@media only screen and (max-device-width: 765px) {
+@media only screen and (max-aspect-ratio: 3/2) {
   .fullcontent {
-  position: fixed;
+  position: absolute;
   width: 100%;
+  height: 100%;
   padding-left: 0rem;
   color: #f1f1f1;
   background: rgba(0, 0, 0, 0.5);
   object-fit: cover;
 }
   .photocontent {
-  position: fixed;
+  position: absolute;
   width: 100%;
+  height: 100%;
   padding-left: 0rem;
   color: #f1f1f1;
   background: rgba(0, 0, 0, 0.5);
