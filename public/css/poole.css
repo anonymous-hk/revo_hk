@@ -61,10 +61,9 @@ html {
 body {
   color: #515151;
   background-image: url("../img/background.png");
-  background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
-  background-attachment: fixed;
+  background-attachment: absolute;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
