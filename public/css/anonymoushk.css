@@ -121,7 +121,7 @@ object-fit: cover;
   .fullcontent {
   position: absolute;
   width: 100%;
-  height: 100%;
+  height: auto;
   margin-left: 0rem;
   color: #f1f1f1;
   background: rgba(0, 0, 0, 0.5);
