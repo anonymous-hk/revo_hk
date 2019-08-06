@@ -92,7 +92,7 @@ img {
 .fullcontent {
   position: fixed;
   width: 100%;
-  margin-left: 18rem;
+  padding-left: 18rem;
   color: #f1f1f1;
   background: rgba(0, 0, 0, 0.5);
   object-fit: cover;
@@ -109,7 +109,7 @@ img {
 .photocontent {
 position: fixed;
 width: 100%;
-margin-left: 18rem;
+padding-left: 18rem;
 color: #f1f1f1;
 background: rgba(0, 0, 0, 0.5);
 object-fit: cover;
@@ -119,7 +119,7 @@ object-fit: cover;
   .fullcontent {
   position: fixed;
   width: 100%;
-  margin-left: 0rem;
+  padding-left: 0rem;
   color: #f1f1f1;
   background: rgba(0, 0, 0, 0.5);
   object-fit: cover;
@@ -127,7 +127,7 @@ object-fit: cover;
   .photocontent {
   position: fixed;
   width: 100%;
-  margin-left: 0rem;
+  padding-left: 0rem;
   color: #f1f1f1;
   background: rgba(0, 0, 0, 0.5);
   object-fit: cover;
