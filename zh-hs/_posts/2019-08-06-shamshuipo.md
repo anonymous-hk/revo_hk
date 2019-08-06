@@ -1,6 +1,6 @@
 ---
 title: 青年购买激光电筒被捕、市民警署前声援遭防暴警驱散
-lang: zh-ht
+lang: zh-hs
 layout: post
 date: 2019-08-06 00:00:00 -0700
 img: 20190806_newsimg.jpg
