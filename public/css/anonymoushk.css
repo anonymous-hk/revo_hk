@@ -95,11 +95,23 @@ img {
   height: 100%;
   padding-left: 18rem;
   color: #f1f1f1;
+  background-color: #535353;
+  object-fit: cover;
+}
+
+
+
+.textcontent {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  padding-left: 18rem;
+  color: #f1f1f1;
   background: rgba(0, 0, 0, 0.5);
   object-fit: cover;
 }
 
-.fullcontent h1{
+.textcontent h1{
     margin-bottom: .5rem;
     font-weight: bold;
     line-height: 1.25;
@@ -113,25 +125,38 @@ width: 100%;
 height: 100%;
 padding-left: 18rem;
 color: #f1f1f1;
-background: rgba(0, 0, 0, 0.5);
+background-color: #535353;
 object-fit: cover;
 }
 
-@media only screen and (max-aspect-ratio: 3/2) {
+@media only screen and (max-device-width: 765px) {
   .fullcontent {
   position: absolute;
   width: 100%;
+  height: 100%;
+  padding-left: 0rem;
+  color: #f1f1f1;
+  background-color: #535353;
+  object-fit: cover;
+}
+
+  .textcontent {
+  position: absolute;
+  width: 100%;
+  height: 100%;
   padding-left: 0rem;
   color: #f1f1f1;
   background: rgba(0, 0, 0, 0.5);
   object-fit: cover;
 }
+
   .photocontent {
   position: absolute;
   width: 100%;
+  height: 100%;
   padding-left: 0rem;
   color: #f1f1f1;
-  background: rgba(0, 0, 0, 0.5);
+  background-color: #535353;
   object-fit: cover;
 }
 }
