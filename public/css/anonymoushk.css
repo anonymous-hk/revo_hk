@@ -90,7 +90,7 @@ img {
 
 
 .fullcontent {
-  position: fixed;
+  position: absolute;
   width: 100%;
   height: 100%;
   margin-left: 18rem;
@@ -108,7 +108,7 @@ img {
 }
 
 .photocontent {
-position: fixed;
+position: absolute;
 width: 100%;
 height: 100%;
 margin-left: 18rem;
@@ -119,7 +119,7 @@ object-fit: cover;
 
 @media only screen and (max-device-width: 765px) {
   .fullcontent {
-  position: fixed;
+  position: absolute;
   width: 100%;
   height: 100%;
   margin-left: 0rem;
@@ -128,7 +128,7 @@ object-fit: cover;
   object-fit: cover;
 }
   .photocontent {
-  position: fixed;
+  position: absolute;
   width: 100%;
   height: 100%;
   margin-left: 0rem;
