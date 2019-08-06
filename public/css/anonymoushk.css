@@ -91,7 +91,7 @@ img {
 .fullcontent {
   position: absolute;
   width: 100%;
-  padding-top: 57.40%;
+  height: 100%;
   margin-left: 18rem;
   color: #f1f1f1;
   background-color: #535353;
@@ -103,7 +103,7 @@ img {
 .textcontent {
   position: absolute;
   width: 100%;
-  padding-top: 57.40%;
+  height: 100%;
   margin-left: 18rem;
   color: #f1f1f1;
   background: rgba(0, 0, 0, 0.5);
