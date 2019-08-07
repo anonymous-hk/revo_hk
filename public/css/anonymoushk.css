@@ -101,18 +101,11 @@ img {
 
 @media (min-width: 48em) {
   .fullcontent {
-    max-width: 62rem;
-    margin-left: 20rem;
-    margin-right: 2rem;
+    margin-left: 18rem;
+    margin-right: 0rem;
   }
 }
 
-@media (min-width: 64em) {
-  .fullcontent {
-    margin-left: 22rem;
-    margin-right: 4rem;
-  }
-}
 
 .textcontent {
   position: absolute;
@@ -125,19 +118,10 @@ img {
 
 @media (min-width: 48em) {
   .textcontent {
-    max-width: 62rem;
-    margin-left: 20rem;
-    margin-right: 2rem;
+    margin-left: 18rem;
+    margin-right: 0rem;
   }
 }
-
-@media (min-width: 64em) {
-  .textcontent {
-    margin-left: 22rem;
-    margin-right: 4rem;
-  }
-}
-
 
 .textcontent h1{
     margin-bottom: .5rem;
@@ -158,16 +142,8 @@ object-fit: cover;
 
 @media (min-width: 48em) {
   .photocontent {
-    max-width: 62rem;
-    margin-left: 20rem;
-    margin-right: 2rem;
-  }
-}
-
-@media (min-width: 64em) {
-  .photocontent {
-    margin-left: 22rem;
-    margin-right: 4rem;
+    margin-left: 18rem;
+    margin-right: 0rem;
   }
 }
 
