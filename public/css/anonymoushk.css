@@ -1,3 +1,5 @@
+
+/* Timeline item */
 .item {
 padding-top:100px;
 min-height:150px;
@@ -16,6 +18,8 @@ position:relative;
 z-index:1;
 left:calc(3% - 36px)
 }
+
+/* Adding vertical line to timeline */
 .vertical-line {
 width:4px;
 background-color: #d9d2d2;
@@ -46,6 +50,7 @@ height:70px;
 position:relative
 }
 
+/* Map style */
 #hk-map {
   display: block;
   position: absolute;
@@ -58,7 +63,6 @@ position:relative
 .wrapper {
    font-size: 0;
 }
-
 img {
     display: inline-block;
     max-width: 100%;
@@ -82,7 +86,6 @@ img {
     height: 100%;
     object-fit: fill;
 }
-
 
 .fullcontent {
   position: relative;
