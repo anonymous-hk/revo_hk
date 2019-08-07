@@ -104,6 +104,25 @@ img {
   }
 }
 
+.photocontent {
+  position: relative;
+  top: 0rem;
+  right: 0rem;
+  display: block;
+  height:100%;
+  min-height: 21rem;
+  color: #f1f1f1;
+  background-color: #5F5F5F;
+}
+
+
+@media (min-width: 48em) {
+  .photocontent {
+    position: absolute;
+    left: 18rem;
+  }
+}
+
 #realbodycontent {
   width: 100%;
   height: 100%;
@@ -204,19 +223,36 @@ img {
 
 #p1num, #p2num, #p3num, #p4num, #p5num {
   color: #F05A39;
-    font-size: 100px;
+    font-size: 12px;
 }
 #pnuma {
   color: #F05A39;
-    font-size: 60px;
+    font-size: 12px;
 }
 
 #m1num, #m2num, #m3num, #m4num {
     color: #FACC2E;
-    font-size: 100px;
+    font-size: 14px;
 }
 
-@media only screen and (max-device-width: 765px) {
+@media (min-width: 40em) {
+#p1num, #p2num, #p3num, #p4num, #p5num {
+  color: #F05A39;
+    font-size: 24px;
+}
+#pnuma {
+  color: #F05A39;
+    font-size: 20px;
+}
+
+#m1num, #m2num, #m3num, #m4num {
+    color: #FACC2E;
+    font-size: 24px;
+}
+}
+
+
+@media (min-width: 48em) {
 #p1num, #p2num, #p3num, #p4num, #p5num {
   color: #F05A39;
     font-size: 50px;
@@ -229,5 +265,21 @@ img {
 #m1num, #m2num, #m3num, #m4num {
     color: #FACC2E;
     font-size: 50px;
+}
+}
+
+@media (min-width: 86em) {
+#p1num, #p2num, #p3num, #p4num, #p5num {
+  color: #F05A39;
+    font-size: 60px;
+}
+#pnuma {
+  color: #F05A39;
+    font-size: 40px;
+}
+
+#m1num, #m2num, #m3num, #m4num {
+    color: #FACC2E;
+    font-size: 60px;
 }
 }
