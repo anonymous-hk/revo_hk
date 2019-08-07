@@ -90,6 +90,7 @@ img {
 
 
 .fullcontent {
+  position: absolute;
   width: 100%;
   color: #f1f1f1;
   background-color: #535353;
@@ -113,6 +114,7 @@ img {
 }
 
 .textcontent {
+  position: absolute;
   width: 100%;
   color: #f1f1f1;
   background: rgba(0, 0, 0, 0.5);
@@ -144,6 +146,7 @@ img {
 }
 
 .photocontent {
+position: absolute;
 width: 100%;
 color: #f1f1f1;
 background-color: #535353;
