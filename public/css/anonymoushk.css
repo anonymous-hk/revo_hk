@@ -5,8 +5,8 @@ position:relative
 }
 .item:before,.last-item:after {
 background:#fec11e;
-border:8px solid #000;
-border-radius:50%;
+border:8px solid #d9d2d2;
+border-radius:40%;
 width:40px;
 height:40px;
 display:inline-block;
@@ -17,7 +17,7 @@ z-index:1;
 left:calc(2% - 36px)
 }
 .vertical-line {
-width:8px;
+width:4px;
 background-color: #d9d2d2;
 position:absolute;
 left:calc(4% - 5px);
