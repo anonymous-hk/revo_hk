@@ -59,12 +59,13 @@ html {
 }
 
 body {
-  color: #515151;
-  background-image: url("../img/background.png");
-  background-size: contain;
+  height: 100%
+  color: #fff;
+  background-image: url("../img/background_rec.jpeg");
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  background-attachment: absolute;
+  background-attachment: fixed;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
@@ -88,7 +89,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
   font-weight: bold;
   line-height: 1.25;
-  color: #313131;
+  color: #fff;
   text-rendering: optimizeLegibility;
 }
 h1 {
@@ -114,7 +115,7 @@ p {
 }
 
 strong {
-  color: #303030;
+  color: #d9d2d2;
 }
 
 

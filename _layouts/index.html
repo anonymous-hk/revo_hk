@@ -12,7 +12,7 @@ layout: default
         <h2 class="item-date">{{ post.date | date: '%Y-%m-%d' }}{% if post.enddate %} - {{ post.enddate | date: '%Y-%m-%d' }}{% endif %}</h2>
         <div class="card-panel">
             <h3 class="card-title">
-                <a href="{{site.baseurl}}{{ post.url }}" style="color:black;">{{ post.title }}</a>
+                <a href="{{site.baseurl}}{{ post.url }}" style="color:#d9d2d2;">{{ post.title }}</a>
             </h3>
             {% capture pimg %}{{ post.img | default: false }}{% endcapture %}
             {% if post.img != false %}
