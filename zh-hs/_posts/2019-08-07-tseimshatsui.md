@@ -1,6 +1,6 @@
 ---
 title: 「光复香港，镭射革命」
-lang: zh-ht
+lang: zh-hs
 layout: post
 date: 2019-08-07 00:00:00 -0700
 img: 20190807_newsimg.jpg
