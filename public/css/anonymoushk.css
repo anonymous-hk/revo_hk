@@ -129,7 +129,7 @@ background-color: #535353;
 object-fit: cover;
 }
 
-@media only screen and (max-width: 48em) {
+@media only screen and (max-width: 47em) {
   .fullcontent {
   position: absolute;
   width: 100%;
