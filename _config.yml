@@ -10,7 +10,7 @@ title: Record HK
 tagline: 'hk_protest'
 description: Reclaim Hong Kong, Revolution of Our Times
 timezone: Europe/Berlin
-baseurl: '/revo_hk'
+baseurl: 
 plugins:
   - jekyll-maps
 
